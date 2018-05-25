@@ -2,6 +2,7 @@
 
 # server目录：
 express -e
+
 cnpm install
 
 # 根目录：
